@@ -1,6 +1,6 @@
-# untitled1
+# weight on planets
 
-A new Flutter project.
+A new Flutter project. This app help to find your weight in different planets
 
 ## Getting Started
 
